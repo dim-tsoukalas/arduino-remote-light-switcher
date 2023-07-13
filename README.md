@@ -20,10 +20,9 @@ The following components were utilized in this project:
 After assembling the circuit and uploading the code to the Arduino board, several tests were conducted to verify the system's functionality. The IR controller was used to send commands to the IR receiver module, and the lamp's response was observed. The lamp should turn on when the "power on" command was sent and turn off when the "power off" command was received.
 
 The tests yielded successful results, with the lamp responding appropriately to the IR commands. The system proved reliable and effective in providing remote control over the lamp's power supply.
-![IMG_20230710_172206](https://github.com/dim-tsoukalas/arduino-remote-light-switcher/assets/64429662/d58e4c8b-8e35-4095-9eec-bb512cfa6174)
-![IMG_20230710_172211](https://github.com/dim-tsoukalas/arduino-remote-light-switcher/assets/64429662/931da2e0-7661-432c-83a5-a1dff92e4b3c)
 
+<img src="https://github.com/dim-tsoukalas/arduino-remote-light-switcher/assets/64429662/d58e4c8b-8e35-4095-9eec-bb512cfa6174" width="400">
+<img src="https://github.com/dim-tsoukalas/arduino-remote-light-switcher/assets/64429662/931da2e0-7661-432c-83a5-a1dff92e4b3c" width="400">
 
-https://github.com/dim-tsoukalas/arduino-remote-light-switcher/assets/64429662/a1eb99d1-0648-4581-8dcc-3511a7b8eedb
 ## Conclusion
 The Arduino light switcher for a lamp using an IR receiver and controller, successfully achieved its intended goal. By implementing the circuit and programming, we created a practical and user-friendly solution to remotely control the lamp's power state. The project's success highlights the versatility of Arduino in home automation applications and its potential for further enhancements and integrations.
